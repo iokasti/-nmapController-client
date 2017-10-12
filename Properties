@@ -1,0 +1,5 @@
+threadpoolsize 4
+serverAddr http://localhost:4445/manager
+connectionFailureSleepTime 5
+jobRequestInterval 5
+resultSendInterval 10
